@@ -102,4 +102,5 @@ Data Analyst | Power BI | SQL | Python
 
 If you want to discuss the dashboard or collaborate:
  Reach out via GitHub or LinkedIn or mail
-```devansofficial07@gmaiil.com
+```
+devansofficial07@gmaiil.com
